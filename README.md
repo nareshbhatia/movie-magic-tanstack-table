@@ -7,7 +7,7 @@ Live demo: https://movie-magic-tanstack-table.vercel.app/
 
 ![Movie Magic Screenshot](assets/movie-magic-screenshot.png)
 
-## Building Movie Magic Shadcn
+## Building Movie Magic
 
 ### Development Build
 
